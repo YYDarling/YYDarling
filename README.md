@@ -5,17 +5,14 @@
 
 <ul>
   <li>
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
     <a href="https://www.linkedin.com/in/yun-fight-for-yourself/">LinkedIn</a>
   </li>
   
   <li>
-    
-       <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
-     </a>
+    Email : duyun530@tamu.edu
   </li>
   <li>
-    
+    <a href="https://github.com/YunDudali">Github</a>
   </li>
 </ul>
 
