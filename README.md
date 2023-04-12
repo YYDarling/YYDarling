@@ -3,11 +3,12 @@
 
 <p><a href="https://www.linkedin.com/in/yun-fight-for-yourself/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/yun-fight-for-yourself/" alt="LinkedIn Badge"></a></p>
 
-<p>I felt the wind in my face my whole life,maybe I was born to be a cloud ☁</p>
+<h3>I felt the wind in my face my whole life,maybe I was born to be a cloud ☁， Yun in Chinese means cloud</h3>
+
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
+<li>🔭 I’m currently seeking SWE and SDE Internship && Coop && Full-time oppotunities.</li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/YunDudali">Github</a>.</li>
 <li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
