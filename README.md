@@ -3,15 +3,21 @@
 
 <h3>Contact with me : </h3>
 
-<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<a href="https://github.com/yzp-99/"></a>
+<ul>
+  <li>
+      <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" /><a href="https://www.linkedin.com/in/yun-fight-for-yourself/"></a>
+  </li>
+  
+  <li>
+     <a href="https://mail.google.com/ ">
+       <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+     </a>
+  </li>
+  <li>
+    
+  </li>
+</ul>
 
-<a href="https://www.linkedin.com/in/yun-fight-for-yourself/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
-</a>
-<a href="https://mail.google.com/ ">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
-</a>
 
 <h3>I felt the wind in my face my whole life, maybe I was born to be a cloud ☁， Yun in Chinese means cloud</h3>
 
