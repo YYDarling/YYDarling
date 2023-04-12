@@ -7,9 +7,8 @@
   <li>
     <a href="https://www.linkedin.com/in/yun-fight-for-yourself/">LinkedIn</a>
   </li>
-  
   <li>
-    Email : duyun530@tamu.edu
+    <a href="mailto:duyun530@tamu.edu">Email</a>
   </li>
   <li>
     <a href="https://github.com/YunDudali">Github</a>
