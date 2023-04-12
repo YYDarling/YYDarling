@@ -1,6 +1,7 @@
 <h2>Hey 👋, I'm Yun Du</h2>
 <p>I'm currently a Web Developer Student Assistant at <strong><a href="https://agrilifeextension.tamu.edu/">Texas A&M AgriLife Extension Service</a></strong> and formerly worked as an student assistant at <strong><a href="https://tees.tamu.edu/">Texas A&M Engineering Experiment Station (TEES)</a></strong> based in College Station.</p>
 
+<h3>Contact with me : </h3>
 <p><a href="https://www.linkedin.com/in/yun-fight-for-yourself/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/yun-fight-for-yourself/" alt="LinkedIn Badge"></a></p>
 
 <h3>I felt the wind in my face my whole life,maybe I was born to be a cloud ☁， Yun in Chinese means cloud</h3>
@@ -9,7 +10,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently seeking SWE and SDE Internship && Coop && Full-time oppotunities.</li>
-<li>🧐 Learning about <strong>Software Development</strong>I'm deeply interested in Front-End side, but I am doing the back-end at this moment. </strong>, <strong> Machine Learning, Deep Learning, and a bit of <strong>Cloud</strong>.</li>
+<li>🧐 Learning about <strong>Software Development</strong>, I'm deeply interested in Front-End side, but I am doing the back-end at this moment. </strong>, <strong> Machine Learning, Deep Learning, and a bit of <strong>Cloud</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/YunDudali">Github</a>.</li>
 <li>📙 Check out my <a href="">resume</a>.</li>
 <li>🎉 Fun Fact: अलिकति नेपाली बोल्न सक्छु</li>
