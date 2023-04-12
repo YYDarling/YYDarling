@@ -13,6 +13,9 @@
   <li>
     <a href="https://github.com/YunDudali">Github</a>
   </li>
+  <li>
+    <a href="https://instagram.com/sing_in_yun_life?igshid=YmMyMTA2M2Y=">Instagram</a>
+  </li>
 </ul>
 
 
