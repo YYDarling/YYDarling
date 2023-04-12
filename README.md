@@ -2,7 +2,16 @@
 <p>I'm currently a Master Student studying in <strong><a href="https://www.tamu.edu/">Texas A&M University</a></strong>, Majoring in <strong>Computer Engineering - Computer Science Track, </strong>a <strong>Web Developer Student Assistant</strong> at <strong><a href="https://agrilifeextension.tamu.edu/">Texas A&M AgriLife Extension Service</a></strong> and formerly worked as an student assistant at <strong><a href="https://tees.tamu.edu/">Texas A&M Engineering Experiment Station (TEES)</a></strong> based in College Station.</p>
 
 <h3>Contact with me : </h3>
-<p><a href="https://www.linkedin.com/in/yun-fight-for-yourself/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/yun-fight-for-yourself/" alt="LinkedIn Badge"></a></p>
+
+<a href="https://github.com/yzp-99/">
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.linkedin.com/in/yun-fight-for-yourself/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.js" />
+</a>
+<a href="https://mail.google.com/ ">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+</a>
 
 <h3>I felt the wind in my face my whole life, maybe I was born to be a cloud ☁， Yun in Chinese means cloud</h3>
 
