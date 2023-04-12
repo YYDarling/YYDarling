@@ -9,7 +9,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently seeking SWE and SDE Internship && Coop && Full-time oppotunities.</li>
-<li>🧐 Learning about <strong>Software Development(I'm deeply interested in Front-End side, but I am doing the back-end at this moment)</strong>, <strong> Machine Learning, Deep Learning</strong>, and a bit of <strong>Cloud</strong>.</li>
+<li>🧐 Learning about <strong>Software Development</strong>I'm deeply interested in Front-End side, but I am doing the back-end at this moment. </strong>, <strong> Machine Learning, Deep Learning, and a bit of <strong>Cloud</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/YunDudali">Github</a>.</li>
 <li>📙 Check out my <a href="">resume</a>.</li>
 <li>🎉 Fun Fact: अलिकति नेपाली बोल्न सक्छु</li>
@@ -49,6 +49,5 @@
 | --------------- | --------------- | --------------- | ------------- |
 | **Languages(programming)** | Java, Python, JS, HTML5, CSS3, LaTex | Typescript, R | C++, PHP |
 | **Frameworks/Platforms** | Tensorflow, React.js, Vue.js, Git | Spring, SpringBoot  | AWS, Docker, SpringCloud |
-| **I can't club them into one** | Speech Processing(AI), Computer Vision(AI) | Natural Language(AI) | Parallel Computing, Internet of Things |
 | **Languages(human)** | Chinese , English | Nepali | Janpanese |
-| **Other interests** | Finance(FinTech), Construction | Economics | Fireware |
+| **Other interests** | Finance(FinTech), Construction | Economics | Firmware |
