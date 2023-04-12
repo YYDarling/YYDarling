@@ -3,9 +3,9 @@
 
 <h3>Contact with me : </h3>
 
-<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><a href="https://github.com/yzp-99/">
+<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/yzp-99/"></a>
 
-</a>
 <a href="https://www.linkedin.com/in/yun-fight-for-yourself/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
 </a>
