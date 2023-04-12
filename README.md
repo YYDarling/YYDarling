@@ -45,3 +45,12 @@
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
+
+## Specifications
+| *Name \ Familiarity* | High | Medium | Low |
+| --------------- | --------------- | --------------- | ------------- |
+| **Languages(programming)** | Python | JS, C, C++ | Swift, Java, Go |
+| **Frameworks/Platforms** | Tensorflow, PyTorch | Node.js, GCP, Git | Vue.js, AWS, Docker |
+| **I can't club them into one** | Speech Processing(AI), Computer Vision(AI) | Natural Language(AI) | Parallel Computing, Internet of Things |
+| **Languages(human)** | Hindi, English | Spanish, Portuguese | Latin  |
+| **Other interests** | Monetary Economics, Languages | Behavioural Economics, Neuroscience | Digital Privacy |
