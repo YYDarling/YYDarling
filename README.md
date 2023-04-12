@@ -1,9 +1,9 @@
 <h2>Hey 👋, I'm Yun Du</h2>
 <p>I'm currently a Web Developer Student Assistant at <strong><a href="https://agrilifeextension.tamu.edu/">Texas A&M AgriLife Extension Service</a></strong> and formerly worked as an student assistant at <strong><a href="https://tees.tamu.edu/">Texas A&M Engineering Experiment Station (TEES)</a></strong> based in College Station. I am currently seeking Internship and Full-time Software Development Engineer position in this summer.</p>
 
-<p><a href="https://www.linkedin.com/in/yun-fight-for-yourself/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a></p>
+<p><a href="https://www.linkedin.com/in/yun-fight-for-yourself/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/yun-fight-for-yourself/" alt="LinkedIn Badge"></a></p>
 
-<p>🍌 Don't forget to get some Potassium 🍌</p>
+<p>I felt the wind in my face my whole life,maybe I was born to be a cloud ☁</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
