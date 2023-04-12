@@ -6,7 +6,8 @@
 
 <h3>I felt the wind in my face my whole life, maybe I was born to be a cloud ☁， Yun in Chinese means cloud</h3>
 
-<img align="right" src="https://github.com/YunDudali/YunDudali/blob/main/IMG_2287.JPG", width="460" height="345"/>
+<img align="right" src="https://github.com/YunDudali/YunDudali/blob/main/IMG_2287.JPG", width="460" height="345"></img>
+
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently seeking SWE and SDE Internship && Coop && Full-time oppotunities.</li>
