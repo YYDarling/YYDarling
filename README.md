@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm Yun Du</h2>
 <p>I'm currently a Master Student studying in <strong><a href="https://www.tamu.edu/">Texas A&M University</a></strong>, Majoring in <strong>Computer Engineering - Computer Science Track, </strong>a <strong>Web Developer Student Assistant</strong> at <strong><a href="https://agrilifeextension.tamu.edu/">Texas A&M AgriLife Extension Service</a></strong> and formerly worked as an student assistant at <strong><a href="https://tees.tamu.edu/">Texas A&M Engineering Experiment Station (TEES)</a></strong> based in College Station.</p>
 
-<h3>Contact with me : </h3>
+<h3>Contact me : </h3>
 
 <ul>
   <li>
