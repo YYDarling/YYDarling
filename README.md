@@ -1,36 +1,32 @@
-<h2>Hey 👋, I'm Yun Du</h2>
-<p>I'm currently a Master Student studying in <strong><a href="https://www.tamu.edu/">Texas A&M University</a></strong>, Majoring in <strong>Computer Engineering - Computer Science Track, </strong>a <strong>Web Developer Student Assistant</strong> at <strong><a href="https://agrilifeextension.tamu.edu/">Texas A&M AgriLife Extension Service</a></strong> and formerly worked as an student assistant at <strong><a href="https://tees.tamu.edu/">Texas A&M Engineering Experiment Station (TEES)</a></strong> based in College Station.</p>
-
-<h3>Contact me : </h3>
-
-<ul>
-  <li>
-    <a href="https://www.linkedin.com/in/yun-fight-for-yourself/">LinkedIn</a>
-  </li>
-  <li>
-    <a href="mailto:duyun530@tamu.edu">Email</a>
-  </li>
-  <li>
-    <a href="https://github.com/YunDudali">Github</a>
-  </li>
-  <li>
-    <a href="https://instagram.com/sing_in_yun_life?igshid=YmMyMTA2M2Y=">Instagram</a>
-  </li>
-</ul>
-
+<h2>Hey 👋, I'm Yun Du ☁️ </h2>
 
 <h3>I felt the wind in my face my whole life, maybe I was born to be a cloud ☁， Yun in Chinese means cloud</h3>
 
+
+### :raising_hand:&nbsp; About me
++ 🔭 Currently seeking <strong>SWE/Cloud/DevOps/Data/Database</strong> Full-time opportunities
++ Master student at the :school:&nbsp;[Texas A&M University](https://www.tamu.edu/), majoring in [Computer Engineering - Computer Science Track](https://engineering.tamu.edu/electrical/academics/degrees/graduate/ms-ce.html)
++ An <strong>IT Intern</strong> at [US Cabinet Depot](https://www.uscabinetdepot.com/) during Summer 2023
++ Formerly worked as a <strong>Web Developer Student Assistant</strong> at [Texas A&M AgriLife Extension Service](https://agrilifeextension.tamu.edu) , and a <strong>Student Assistant</strong> worked at [Texas A&M Engineering Experiment Station (TEES)](https://tees.tamu.edu/)
++ Interested in changing the world, currently exploring the field of ☁️ **Cloud, Database, Front-End**
++ Recently developed a strong interest in distributed systems and computer security
+
+
 <img src="https://github.com/YunDudali/YunDudali/blob/main/IMG_2287.JPG" align="right" height="275" />
 
-<h2>⚡️ A Few Quick Facts</h2>
+<h3> 🌈 Contact me</h3>
 <ul>
-<li>🔭 I’m currently seeking SWE and SDE Internship && Coop && Full-time opportunities.</li>
-<li>🧐 Learning about <strong>Software Development</strong>, I'm deeply interested in Front-End side, but I am doing the back-end at this moment. </strong>, <strong> Machine Learning, Deep Learning, and a bit of <strong>Cloud</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/YunDudali">Github</a>.</li>
-<li>📙 Check out my <a href="">resume</a>.</li>
-<li>🎉 Fun Fact: अलिकति नेपाली बोल्न सक्छु</li>
+  <li><a href="">Resume</a></li>
+  <li><a href="mailto:amberou289@gmail.com">Email: amberou289@gmail.com</a></li>
+  <li><a href="https://www.linkedin.com/in/yun-fight-for-yourself/">LinkedIn</a></li>
+  <li><a href="https://github.com/YYDarling/">Github</a></li>
 </ul>
+
+### :no_good:&nbsp; What to expect
++ 👨‍💻 Most of my projects are available on [Github](https://github.com/YYDarling/)
++ 🩵 : 🏓  🧗‍♀️  🏔️  🏊
++ 🎉 Fun Fact: अलिकति नेपाली बोल्न सक्छु
++ 🌎 Peace to the World~~
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
@@ -53,13 +49,14 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
-
 </p>
 
 ## Specifications
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
-| **Languages(programming)** | Java, Python, JS, HTML5, CSS3, LaTex | Typescript, R | C++, PHP |
-| **Frameworks/Platforms** | Tensorflow, React.js, Vue.js, Git | Spring, SpringBoot  | AWS, Docker, SpringCloud |
+| **Languages(programming)** | Java, Python, JS, SQL, HTML5, CSS3, LaTex, Markdown | Typescript, Matlab | C++, PHP |
+| **Frameworks/Platforms** | Springboot, Vitepress, React, Vue, Git | Angular, SpringCloud  | AWS, Docker |
+| **Database/Tools** | Oracel(Netsuite), MySQL, Redis | MongoDB, JSON/XML | PostgreSQL |
 | **Languages(human)** | Chinese , English | Nepali | Janpanese |
 | **Other interests** | Finance(FinTech), Construction | Economics | Firmware |
+
