@@ -55,7 +55,7 @@
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
 | **Languages(programming)** | Java, Python, JavaScript/TypeScript, SQL, HTML5, CSS3, LaTex, Markdown | C++, Matlab | PHP |
-| **Frameworks/Platforms** | Springboot, Maven, Apache, Vitepress, React.js, Vue.js, Git | Angular, SpringCloud  | AWS, Docker |
+| **Frameworks/Platforms** | Springboot, Maven, Apache, Vitepress, React.js, Vue.js, Git | Angular, SpringCloud  | Node.js,AWS, Docker |
 | **Database/Tools** | Oracel(Netsuite), MySQL, Redis, Mybatis, JSON/XML | MongoDB | PostgreSQL |
 | **Languages(human)** | Chinese , English | Nepali | Janpanese |
 | **Other interests** | Finance(FinTech), Construction | Economics | Firmware |
