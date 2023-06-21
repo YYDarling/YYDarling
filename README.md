@@ -8,7 +8,7 @@
 + Master student at the :school:&nbsp;[Texas A&M University](https://www.tamu.edu/), majoring in [Computer Engineering - Computer Science Track](https://engineering.tamu.edu/electrical/academics/degrees/graduate/ms-ce.html)
 + An <strong>IT Intern</strong> at [US Cabinet Depot](https://www.uscabinetdepot.com/) during Summer 2023
 + Formerly worked as a <strong>Web Developer Student Assistant</strong> at [Texas A&M AgriLife Extension Service](https://agrilifeextension.tamu.edu) , and a <strong>Student Assistant</strong> worked at [Texas A&M Engineering Experiment Station (TEES)](https://tees.tamu.edu/)
-+ Interested in changing the world, currently exploring the field of ☁️ **Cloud, Database, Front-End**
++ Interested in changing the world, currently exploring the field of ☁️ **Cloud/Infrastructure, Security, Database**
 + Recently developed a strong interest in distributed systems and computer security
 
 
