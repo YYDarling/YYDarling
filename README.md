@@ -23,7 +23,7 @@
 </ul>
 
 ### :no_good:&nbsp; What to expect
-+ 👨‍💻 Most of my projects are available on [Github_Repo]([https://github.com/YYDarling?tab=repositories](https://github.com/YYDarling?tab=repositories))
++ 👨‍💻 Most of my projects are available on [Github_Repo](https://github.com/YYDarling?tab=repositories)
 + 🩵 : 🏓  🧗‍♀️  🏔️  🏊
 + 🎉 Fun Fact: अलिकति नेपाली बोल्न सक्छु
 + 🌎 Peace to the World~~
