@@ -4,7 +4,8 @@
 
 
 ### :raising_hand:&nbsp; About me
-+ 👀 Currently seeking <strong>SWE & Data/Database & Cloud</strong> Full-time opportunities
++ Currently a Software Development(FrontEnd) && Transportation Data Science Intern at [AECOM]((https://aecom.com/)).(Aug. 2023 - Jan. 2024)
++ 👀 Seeking <strong>SWE & Data/Database & Cloud</strong> Full-time opportunities
 + Master student at the :school:&nbsp;[Texas A&M University](https://www.tamu.edu/), majoring in [Computer Engineering - Computer Science Track](https://engineering.tamu.edu/electrical/academics/degrees/graduate/ms-ce.html)
 + An <strong>IT Intern</strong> at [US Cabinet Depot](https://www.uscabinetdepot.com/) during Summer 2023
 + Formerly worked as a <strong>Web Developer Student Assistant</strong> at [Texas A&M AgriLife Extension Service](https://agrilifeextension.tamu.edu) , and a <strong>Student Assistant</strong> worked at [Texas A&M Engineering Experiment Station (TEES)](https://tees.tamu.edu/)
