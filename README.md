@@ -13,7 +13,7 @@
 + Recently developed a strong interest in distributed systems and computer security
 
 
-<img src="" align="right" height="275" />
+<img src="https://github.com/YYDarling/YYDarling/blob/main/GOPR0045.JPG" align="right" height="275" />
 
 <h3> 🌈 Contact me</h3>
 <ul>
