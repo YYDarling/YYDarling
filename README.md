@@ -11,8 +11,6 @@
 + Master student at the :school:&nbsp;[Texas A&M University](https://www.tamu.edu/), majoring in [Computer Engineering - Computer Science Track](https://engineering.tamu.edu/electrical/academics/degrees/graduate/ms-ce.html)
 
 + Interested in changing the world, currently exploring the field of ☁️ **Data/Database**
-+ Recently developed a strong interest in distributed systems and computer security
-
 
 <img src="https://github.com/YYDarling/YYDarling/blob/main/GOPR0045.JPG" align="right" height="275" />
 
