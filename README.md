@@ -4,13 +4,13 @@
 
 
 ### :raising_hand:&nbsp; About me
-+ Seeking <strong>SWE & Data/Database </strong> Full-time opportunities 👀 
-+ An Software Development(FrontEnd) && Transportation Data Science Intern at [AECOM](https://aecom.com).(Aug. 2023 - Jan. 2024)
++ Seeking <strong> Full-time </strong> opportunities 👀 
++ An Transportation Data Science Intern at [AECOM](https://aecom.com).(Aug. 2023 - Jan. 2024)
 + An <strong>IT Intern</strong> at [US Cabinet Depot](https://www.uscabinetdepot.com/).(May 2023 - Aug. 2023)
 + A <strong>Web Developer Student Assistant</strong> at [Texas A&M AgriLife Extension Service](https://agrilifeextension.tamu.edu) , and a <strong>Student Assistant</strong> worked at [Texas A&M Engineering Experiment Station (TEES)](https://tees.tamu.edu/)(May 2022 - Dec. 2022)
 + Master student at the :school:&nbsp;[Texas A&M University](https://www.tamu.edu/), majoring in [Computer Engineering - Computer Science Track](https://engineering.tamu.edu/electrical/academics/degrees/graduate/ms-ce.html)
 
-+ Interested in changing the world, currently exploring the field of ☁️ **Data/Database**
++ Interested in changing the world, currently exploring the field of ☁️ **Transportation && Traffic && Vehicle**
 
 <img src="https://github.com/YYDarling/YYDarling/blob/main/GOPR0045.JPG" align="right" height="275" />
 
