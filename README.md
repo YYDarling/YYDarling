@@ -12,7 +12,7 @@
 
 + Interested in changing the world, currently exploring the field of ☁️ **Transportation && Traffic && Vehicle**
 
-<img src="https://github.com/YYDarling/YYDarling/blob/main/graduation.JPG" align="right" height="400" />
+<img src="https://github.com/YYDarling/YYDarling/blob/main/graduation.JPG" align="right" height="600" wodth="300"/>
 
 <h3> 🌈 Contact me</h3>
 <ul>
