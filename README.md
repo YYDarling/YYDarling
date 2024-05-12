@@ -12,11 +12,11 @@
 
 + Interested in changing the world, currently exploring the field of ☁️ **Transportation && Traffic && Vehicle**
 
-<img src="https://github.com/YYDarling/YYDarling/blob/main/GOPR0045.JPG" align="right" height="275" />
+<img src="https://github.com/YYDarling/YYDarling/blob/main/graduation.JPG" align="right" height="275" />
 
 <h3> 🌈 Contact me</h3>
 <ul>
-  <li><a href="https://github.com/YYDarling/YYDarling/blob/main/graduation.JPG">Resume</a></li>
+  <li><a href="https://github.com/YYDarling/YYDarling/blob/main/YunDu_CV_Data_May.pdf">Resume</a></li>
   <li><a href="mailto:amberou289@gmail.com">Email: amberou289@gmail.com</a></li>
   <li><a href="https://www.linkedin.com/in/yun-fight-for-yourself/">LinkedIn</a></li>
   <li><a>Wechat: Ouertutu</a></li>
