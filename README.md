@@ -4,7 +4,7 @@
 
 
 ### :raising_hand:&nbsp; About me
-+ Seeking <strong> Full-time </strong> opportunities 👀 I need Visa Sponsorship.
++ Seeking <strong> Full-time </strong> opportunities 👀 I need <strong>Visa Sponsorship</strong>.
 + An Transportation Data Science Intern at [AECOM](https://aecom.com).(Aug. 2023 - Jan. 2024)
 + An <strong>IT Intern</strong> at [US Cabinet Depot](https://www.uscabinetdepot.com/).(May 2023 - Aug. 2023)
 + A <strong>Web Developer Student Assistant</strong> at [Texas A&M AgriLife Extension Service](https://agrilifeextension.tamu.edu) , and a <strong>Student Assistant</strong> worked at [Texas A&M Engineering Experiment Station (TEES)](https://tees.tamu.edu/)(May 2022 - Dec. 2022)
