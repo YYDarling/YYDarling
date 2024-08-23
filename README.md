@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm Yun(Amber) Du ☁️ </h2>
+<h2>Hey 👋, I'm Yun Du ☁️ </h2>
 
 <h3>I felt the wind in my face my whole life, maybe I was born to be a cloud ☁， Yun in Chinese means cloud</h3>
 
