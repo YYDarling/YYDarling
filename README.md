@@ -8,7 +8,7 @@
 + Currently a Research Assistant at [Department of Kinesiology and Sport Management at Texas A&M University](https://knsm.tamu.edu/).(Feb. 2025 - June 2025)
 + Ex Transportation Data Science Intern at [AECOM](https://aecom.com).(Aug. 2023 - Jan. 2024)
 + Ex <strong>IT Intern</strong> at [US Cabinet Depot](https://www.uscabinetdepot.com/).(May 2023 - Aug. 2023)
-+ Ex <strong>Web Developer Student Assistant</strong> at [Texas A&M AgriLife Extension Service](https://agrilifeextension.tamu.edu) , and a <strong>Student Assistant</strong> worked at [Texas A&M Engineering Experiment Station (TEES)](https://tees.tamu.edu/)(May 2022 - Dec. 2022)
++ Ex <strong>Student Assistant</strong> worked at [Texas A&M Engineering Experiment Station (TEES)](https://tees.tamu.edu/)(May 2022 - Dec. 2022)
 + Master student at the :school:&nbsp;[Texas A&M University](https://www.tamu.edu/), majoring in [Computer Engineering - Computer Science Track](https://engineering.tamu.edu/electrical/academics/degrees/graduate/ms-ce.html)
 
 + Interested in changing the world, currently exploring the field of ☁️ ** Data **
