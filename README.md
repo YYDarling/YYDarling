@@ -5,17 +5,17 @@
 
 ### :raising_hand:&nbsp; About me
 + Seeking <strong> Full-time </strong> opportunities 👀 I need <strong>Visa Sponsorship</strong>.
-+ An Transportation Data Science Intern at [AECOM](https://aecom.com).(Aug. 2023 - Jan. 2024)
-+ An <strong>IT Intern</strong> at [US Cabinet Depot](https://www.uscabinetdepot.com/).(May 2023 - Aug. 2023)
-+ A <strong>Web Developer Student Assistant</strong> at [Texas A&M AgriLife Extension Service](https://agrilifeextension.tamu.edu) , and a <strong>Student Assistant</strong> worked at [Texas A&M Engineering Experiment Station (TEES)](https://tees.tamu.edu/)(May 2022 - Dec. 2022)
++ Currently a Research Assistant at [Department of Kinesiology and Sport Management at Texas A&M University]([https://aecom.com](https://knsm.tamu.edu/)).(Feb. 2025 - June 2025)
++ EX Transportation Data Science Intern at [AECOM](https://aecom.com).(Aug. 2023 - Jan. 2024)
++ EX <strong>IT Intern</strong> at [US Cabinet Depot](https://www.uscabinetdepot.com/).(May 2023 - Aug. 2023)
++ EX <strong>Web Developer Student Assistant</strong> at [Texas A&M AgriLife Extension Service](https://agrilifeextension.tamu.edu) , and a <strong>Student Assistant</strong> worked at [Texas A&M Engineering Experiment Station (TEES)](https://tees.tamu.edu/)(May 2022 - Dec. 2022)
 + Master student at the :school:&nbsp;[Texas A&M University](https://www.tamu.edu/), majoring in [Computer Engineering - Computer Science Track](https://engineering.tamu.edu/electrical/academics/degrees/graduate/ms-ce.html)
 
-+ Interested in changing the world, currently exploring the field of ☁️ **Transportation && Traffic && Vehicle**
-
-<img src="https://github.com/YYDarling/YYDarling/blob/main/graduation.JPG" align="right" height="550" wodth="300"/>
++ Interested in changing the world, currently exploring the field of ☁️ ** Data **
 
 <h3> 🌈 Contact me</h3>
 <ul>
+  <li><a href="https://yun.yydarling.top/">Personal Website: https://yun.yydarling.top/</a></li>
   <li><a href="https://github.com/YYDarling/YYDarling/blob/main/YunDu_CV_June.pdf">Resume</a></li>
   <li><a href="mailto:amberou289@gmail.com">Email: amberou289@gmail.com</a></li>
   <li><a href="https://www.linkedin.com/in/yun-fight-for-yourself/">LinkedIn</a></li>
